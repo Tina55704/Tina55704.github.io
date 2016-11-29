@@ -1,11 +1,13 @@
 
 <html> 
 <style>
-background: red;
-text: 28px;
+body  {
+ text: #4FC1E9;
+ text-align: center;
+}
 </style>
 <body>
 # Tina55704.github.io
-Portfolio Page
+Portfolio Page 1
 </body>
 </html> 
